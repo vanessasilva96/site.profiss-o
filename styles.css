@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #cdfbfb; /* Cor de fundo */
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 36px;
+    color: #000000; /* Cor do título */
+}
+
+.section {
+    background-color: #ffffff; /* Cor de fundo das seções */
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 18px;
+    color: #000000; /* Cor do texto */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 80%; /* Aumenta o tamanho da imagem */
+}
